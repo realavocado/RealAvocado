@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealAvocado
 - 👀 I’m interested in cooking
-- 🌱 I’m currently learning how to survive in my final year of undergraduate
+- 🌱 I’m currently learning how to survive in my final year of undergraduate degree
 - 💞️ I’m looking to collaborate on nba2k
 - 📫 How to reach me L.Jiang.student@outlook.com
 
