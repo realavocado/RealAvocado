@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RealAvocado
 - 👀 I’m interested in cooking
 - 🌱 I’m currently learning how to survive in my final year of undergraduate degree
-- 💞️ I’m looking to collaborate on nba2k
+- 🎓 I'm going to NYU Tandon Master's in CS for graduate study.
+- 💞️ I’m looking to collaborate on nba2k23
 - 📫 How to reach me L.Jiang.student@outlook.com
 
 <!---
