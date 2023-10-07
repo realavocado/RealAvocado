@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealAvocado
 - 👀 I’m interested in cooking
-- 📫 How to reach me L.Jiang@nyu.edu
+- 📫 How to reach me l.jiang@nyu.edu
 
 <!---
 RealAvocado/RealAvocado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
