@@ -1,4 +1,4 @@
-# Hi there 👋!
+# Hi there 👋! I'm Letian
 - I have experience in Full-Stack development, database development, cloud computing and DevOps. I'm focusing on cloud computing and DevOps right now.
 
 - Feel free to reach me through Email or Linkedin. I look forward to any form of collaboration and communication.
