@@ -1,5 +1,7 @@
-# Hi there 👋! I'm Letian
-- I'm interested in full-stack development, database development, cloud computing and DevOps. I'm focusing on cloud computing and DevOps right now.
+### Hi there 👋! I'm Letian
+- I'm interested in full-stack development, database development, cloud computing and DevOps.
+  
+- I'm focusing on cloud computing and DevOps right now.
 
 - Feel free to reach me through Email or Linkedin. I look forward to any form of collaboration and communication.
 
