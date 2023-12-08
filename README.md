@@ -1,7 +1,7 @@
 # Hi there 👋!
 - I have experience in Full-Stack development, database development, cloud computing and DevOps. I'm focusing on cloud computing and DevOps right now.
 
-- Feel free to reach me at Letian.Jiang123@outlook.com. I look forward to any form of collaboration and communication.
+- Feel free to reach me through Email or Linkedin. I look forward to any form of collaboration and communication.
 
 <!---
 RealAvocado/RealAvocado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
