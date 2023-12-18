@@ -1,7 +1,7 @@
 ### Hi there 👋! I'm Letian
 - I'm interested in full-stack development, database development and currently I'm focusing on AWS and DevOps.
-
 - Feel free to reach me through Email or Linkedin. I look forward to any form of collaboration and communication.
+- If you like one of my projects, I would really appreciate if you could give me a star!
 
 <!---
 RealAvocado/RealAvocado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
