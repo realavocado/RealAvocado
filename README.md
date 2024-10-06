@@ -9,8 +9,8 @@ Welcome to my GitHub! I'm currently a Master's student in **Electrical and Compu
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
 
 - 💼 **Work Experience**:  
-  - **Software Engineer Intern** @ Giga IoT Technology (2022): Built scalable backend APIs, improved query performance, handled high traffic systems, and reduced operational costs on AWS.  
-  - **Software Engineer Intern** @ Whale Cloud Technology (2021): Enhanced web performance, secured APIs with CSRF protection, and scaled systems to handle 1000+ requests per second.
+  - **Software Engineer Intern** @ Giga IoT Technology (2022)
+  - **Software Engineer Intern** @ Whale Cloud Technology (2021)
  
 ## 🛠️ Tech Stack
 
