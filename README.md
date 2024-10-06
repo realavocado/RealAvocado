@@ -6,26 +6,12 @@ Welcome to my GitHub! I'm currently a Master's student in **Electrical and Compu
 
 - 🎓 **Education**:  
   - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)
-  - Graduate student, Computer Science @ New York University (2023-2024)
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
 
 - 💼 **Work Experience**:  
-  - **Software Engineer Intern** @ Giga IoT Tech (2022): Built scalable backend APIs, improved query performance, handled high traffic systems, and reduced operational costs on AWS.  
-  - **Software Engineer Intern** @ Whale Cloud Tech (2021): Enhanced web performance, secured APIs with CSRF protection, and scaled systems to handle 1000+ requests per second.
-
-- 🌟 **Projects**:  
-  - **Distributed Data Processing with HDFS and Spark**: Deployed an HDFS cluster with Docker, processed 1M+ records using Spark, and implemented PageRank for large-scale networks.  
-  - **Photo Album with Natural Language Searching**: Integrated AWS Lex, Rekognition, and ElasticSearch for dynamic photo search capabilities.  
-  - **Dining Concierge Chatbot**: Built a chatbot using Amazon Lex, integrated with AWS Lambda and Yelp API, providing real-time restaurant suggestions.
-
-
-## 📜 Certifications
-
-Issued July 2024. Click the badge below to verify my certification:
-
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/9c016888-7926-42bc-9459-8d4a4b273244/linked_in_profile)
-
-
+  - **Software Engineer Intern** @ Giga IoT Technology (2022): Built scalable backend APIs, improved query performance, handled high traffic systems, and reduced operational costs on AWS.  
+  - **Software Engineer Intern** @ Whale Cloud Technology (2021): Enhanced web performance, secured APIs with CSRF protection, and scaled systems to handle 1000+ requests per second.
+ 
 ## 🛠️ Tech Stack
 
 Here's what I work with:
@@ -46,6 +32,14 @@ Here's what I work with:
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+
+
+## 📜 Certifications
+
+Issued July 2024. Click the badge below to verify my certification:
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/9c016888-7926-42bc-9459-8d4a4b273244/linked_in_profile)
+
 
 ## 🌍 Connect with Me
 
