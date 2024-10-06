@@ -17,6 +17,13 @@ Welcome to my GitHub! I'm currently a Master's student in **Electrical and Compu
   - **Photo Album with Natural Language Searching**: Integrated AWS Lex, Rekognition, and ElasticSearch for dynamic photo search capabilities.  
   - **Dining Concierge Chatbot**: Built a chatbot using Amazon Lex, integrated with AWS Lambda and Yelp API, providing real-time restaurant suggestions.
 
+
+## 📜 Certifications
+
+Issued July 2024. Click the badge below to verify my certification:
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/9c016888-7926-42bc-9459-8d4a4b273244/linked_in_profile)
+
+
 ## 🛠️ Tech Stack
 
 Here's what I work with:
