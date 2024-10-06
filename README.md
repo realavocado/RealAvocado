@@ -5,7 +5,8 @@ Welcome to my GitHub! I'm currently a Master's student in **Electrical and Compu
 ## 🚀 About Me
 
 - 🎓 **Education**:  
-  - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)  
+  - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)
+  - Graduate student, Computer Science @ New York University (2023-2024)
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
 
 - 💼 **Work Experience**:  
