@@ -49,3 +49,7 @@ Issued July 2024. Click the badge below to verify my certification:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/FreddyJiang)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RealAvocado)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=RealAvocado&color=brightgreen)
