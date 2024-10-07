@@ -52,4 +52,4 @@ Issued July 2024. Click the badge below to verify my certification:
 
 ## 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=RealAvocado&color=brightgreen)
+![Visitor Count](https://profile-counter.glitch.me/realavocado/count.svg)
