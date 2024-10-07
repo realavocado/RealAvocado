@@ -2,6 +2,10 @@
 
 Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realavocado&hide=JavaScript&layout=compact&exclude_repo=leetcode-master,developer-roadmap,former2,spring-data-jpa-demo,Qt-GUI-Data-Visualization,JavaGuide,MiniPID-Java,MovieWebsiteFullStack)
+
 ## 🚀 About Me
 
 - 🎓 **Education**:  
