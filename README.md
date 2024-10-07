@@ -10,7 +10,11 @@ Welcome to my GitHub! I'm currently a Master's student in **Electrical and Compu
 
 - 🎓 **Education**:  
   - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)
+  - Masters, Computer Science @ New York University (2023-2024, transferred out)
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
+    
+  It was great experience being NYU student and exploring NYC for a year. After that, I transferred to University of Illinois.
+  
 
 - 💼 **Work Experience**:  
   - **Software Engineer Intern** @ Giga IoT Technology (2022)
