@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Letian Jiang
+![](https://komarev.com/ghpvc/?username=realavocado)
 
 Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
 
@@ -50,14 +51,11 @@ Issued July 2024. Click the badge below to verify my certification:
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/9c016888-7926-42bc-9459-8d4a4b273244/linked_in_profile)
 
 
-## 🌍 Connect with Me
+## 🤝 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/FreddyJiang)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RealAvocado)
 
-## 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/realavocado/count.svg)
 
 ## 🌍 Where Are My Visitors From?
 
