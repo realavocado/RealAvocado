@@ -58,3 +58,7 @@ Issued July 2024. Click the badge below to verify my certification:
 ## 👀 Profile Views
 
 ![Visitor Count](https://profile-counter.glitch.me/realavocado/count.svg)
+
+## 🌍 Where Are My Visitors From?
+
+<a href="https://info.flagcounter.com/8Fc9"><img src="https://s01.flagcounter.com/map/8Fc9/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
