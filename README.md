@@ -63,8 +63,7 @@ Issued July 2024. Click the badge below to verify my certification:
 
 ## 🤝 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/FreddyJiang)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RealAvocado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/FreddyJiang)  [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/RealAvocado)
 
 
 ## 🌍 Where Are My Visitors From?
