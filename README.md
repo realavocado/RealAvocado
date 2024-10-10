@@ -68,6 +68,4 @@ Here's what I work with:
 
 <a href="https://info.flagcounter.com/8Fc9"><img src="https://s01.flagcounter.com/map/8Fc9/size_s/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
-<body>
 <a href="https://clustrmaps.com/site/1c1n5"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=qpJY1nDCiPDEaBZlCKNRrM4i7kVR8IpI_PQ1ekdHxYs&cl=ffffff" /></a>
-</body>
