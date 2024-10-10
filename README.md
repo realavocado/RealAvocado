@@ -54,8 +54,6 @@ Here's what I work with:
 
 ## 📜 Certifications
 
-Issued July 2024. Click the badge below to verify my certification:
-
 <a href="https://www.credly.com/badges/9c016888-7926-42bc-9459-8d4a4b273244/linked_in_profile" target="_blank">
     <img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Cloud-Practitioner_badge.634f8a21af2e0e956ed8905a72366146ba22b74c.png" alt="JavaScript" width="200"/>
 </a>
