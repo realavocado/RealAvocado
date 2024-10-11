@@ -74,6 +74,6 @@ Here's what I work with:
 </a>
 
 <a href="https://clustrmaps.com/site/1c1n6"  title="Visit tracker">
-    <img src="https://www.clustrmaps.com/map_v2.png?cl=000000&w=a&t=n&d=SVbbpuv198KrXHbvtOlMMM85HLohH4_-NDWI0zMZdiQ&co=fafafa" width="200"/>
+    <img src="https://www.clustrmaps.com/map_v2.png?cl=000000&w=a&t=n&d=SVbbpuv198KrXHbvtOlMMM85HLohH4_-NDWI0zMZdiQ&co=ffffff" width="200"/>
 </a>
 
