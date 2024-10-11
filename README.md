@@ -73,7 +73,6 @@ Here's what I work with:
     <img src='https://www.clustrmaps.com/map_v2.png?cl=000000&w=a&t=n&d=qpJY1nDCiPDEaBZlCKNRrM4i7kVR8IpI_PQ1ekdHxYs&co=ffffff' width="200"/>
 </a>
 
-<a href="https://clustrmaps.com/site/1c1n6"  title="Visit tracker">
+<!--<a href="https://clustrmaps.com/site/1c1n6"  title="Visit tracker">
     <img src="https://www.clustrmaps.com/map_v2.png?cl=000000&w=a&t=n&d=SVbbpuv198KrXHbvtOlMMM85HLohH4_-NDWI0zMZdiQ&co=ffffff" width="200"/>
-</a>
-
+</a>-->
