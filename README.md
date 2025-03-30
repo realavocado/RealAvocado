@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Letian Jiang
+# 👋 Hi there, I'm Freddie Jiang
 ![](https://komarev.com/ghpvc/?username=realavocado)
 
 Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
