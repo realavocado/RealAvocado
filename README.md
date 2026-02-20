@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Freddie Jiang
 ![](https://komarev.com/ghpvc/?username=realavocado)
 
-Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
+Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. I worked as a **Software Development Engineer Intern** at **Amazon** from May 2025 to Jan 2026. Please check my [linkedin]([https://example.com](https://www.linkedin.com/in/freddiejiang/)) for my work there. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
 
 ## 📊 GitHub Stats
 
