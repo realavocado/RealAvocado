@@ -13,7 +13,6 @@ I worked as a **Software Development Engineer Intern** at **Amazon** from May 20
 
 - 🎓 **Education**:  
   - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)
-  - Masters, Computer Science @ New York University (2023-2024, transferred out)
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
     
   It was great experience being NYU student and exploring NYC for a year. After that, I transferred to University of Illinois.
