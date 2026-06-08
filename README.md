@@ -3,7 +3,7 @@
 
 Welcome to my GitHub! I'm currently a Master's student in **Electrical and Computer Engineering** at the **University of Illinois Urbana-Champaign**, passionate about solving complex problems using cutting-edge technology. 
 
-I worked as a **Software Development Engineer Intern** at **Amazon** from May 2025 to Jan 2026. Please check my **[LinkedIn](https://www.linkedin.com/in/freddiejiang/)** for my work there. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
+I'm an incoming Software Development Engineer at **Amazon**, where I will work on Japan Store business. I also worked as a **Software Development Engineer Intern** at **Amazon Global Logistics** from May 2025 to Jan 2026. Please check my **[LinkedIn](https://www.linkedin.com/in/freddiejiang/)** for my work there. I love building scalable backend systems, optimizing algorithms, and working with cloud-based services. Check out my projects and feel free to reach out!
 
 ## 📊 GitHub Stats
 
