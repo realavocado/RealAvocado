@@ -14,6 +14,7 @@ I worked as a **Software Development Engineer Intern** at **Amazon** from May 20
 - 🎓 **Education**:  
   - Masters, Electrical and Computer Engineering @ University of Illinois Urbana-Champaign (2024-2026)
   - Bachelors, Computer Science & Electronic Engineering @ University of Liverpool (1st Class Honours) (2019-2023)
+  - High School Diploma, Jinling High School (2016-2019)
     
 
 
